@@ -1,0 +1,5 @@
+insert into books(id,isbn,title,author,price) values (1,'9789585531109','EL DUQUE Y YO BRIDGERTON','JULIA QUINN', 19.50)
+insert into books(id,isbn,title,author,price) values (2,'9788415870340','ORGULLO Y PREJUICIO','JANE AUSTEN', 17)
+insert into books(id,isbn,title,author,price) values (3,'9789588763101','LA SELECCION','KIERA CASS', 14.50)
+insert into books(id,isbn,title,author,price) values (4,'9788497945394','JANE EYRE','CHARLOTTE BRONTE ', 17)
+insert into books(id,isbn,title,author,price) values (5,'9789585531543','CARAVAL','STEPHANIE GARBER ', 25.50)
